@@ -1,0 +1,42 @@
+[
+  [{ "fullName": "Devanshu Sen Pandey", "name": "Devanshu" }],
+
+  [
+    {
+      "title": "LinkedIn",
+      "imgTitle": "LinkedIn",
+      "link": "https://www.linkedin.com/in/devanshu-sen-pandey/",
+      "shortcut": true
+    },
+    {
+      "title": "Github",
+      "imgTitle": "Github",
+      "link": "https://github.com/Devanshusp",
+      "shortcut": true
+    },
+    {
+      "title": "Medium",
+      "imgTitle": "Medium",
+      "link": "https://devanshusenp.medium.com/",
+      "shortcut": true
+    },
+    {
+      "title": "Goodreads",
+      "imgTitle": "Goodreads",
+      "link": "https://www.goodreads.com/user/show/136359571-devanshu-sen-pandey",
+      "shortcut": true
+    },
+    {
+      "title": "Instagram",
+      "imgTitle": "Instagram",
+      "link": "https://www.instagram.com/devanshusp/",
+      "shortcut": true
+    },
+    {
+      "title": "Facebook",
+      "imgTitle": "Facebook",
+      "link": "https://www.facebook.com/devanshusp/",
+      "shortcut": true
+    }
+  ]
+]

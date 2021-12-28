@@ -1,0 +1,53 @@
+// fonts
+@font-face {
+  font-family: "Pixeloid Sans";
+  src: url(../assets/fonts/PixeloidSans.ttf) format("truetype");
+}
+
+@mixin pixeloid-sans($size: 10px, $color: black) {
+  font-family: "Pixeloid Sans";
+  font-size: $size;
+  color: $color;
+}
+
+@font-face {
+  font-family: "Pixeloid Sans Bold";
+  src: url(../assets/fonts/PixeloidSansBold.ttf) format("truetype");
+}
+
+@mixin pixeloid-sans-bold($size: 10px, $color: black) {
+  font-family: "Pixeloid Sans Bold";
+  font-size: $size;
+  color: $color;
+}
+
+// variables
+$taskbar-height: 50px;
+
+$icon-height: 108px;
+$icon-width: 100px;
+
+$taskbar-color: #c0c0c0;
+$taskbar-logo-color: #b6b5b5;
+$background-color: #008080;
+
+$icon-text-color: white;
+$taskbar-text-color: black;
+
+// mixins
+@mixin pixel-border($border-size: 3px) {
+  border-top: $border-size solid lightgray;
+  border-left: $border-size solid lightgray;
+  border-bottom: $border-size solid rgb(28, 48, 48);
+  border-right: $border-size solid rgb(28, 48, 48);
+}
+
+@mixin stop-image-drag() {
+  -webkit-user-drag: none;
+  user-drag: none;
+
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}

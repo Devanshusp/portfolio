@@ -1,0 +1,26 @@
+@import "../assets/Styles.scss";
+
+.taskbar {
+  width: 100vw;
+  height: $taskbar-height;
+  background-color: $taskbar-color;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1;
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 0;
+  .logo-button {
+    margin-left: 20px;
+    @include pixeloid-sans-bold(18px, $taskbar-text-color);
+    @include pixel-border();
+    background-color: $taskbar-logo-color;
+  }
+  .time {
+    margin-right: 20px;
+    @include pixeloid-sans(15px, $taskbar-text-color);
+    box-shadow: inset 0 0 5px;
+    padding: 6px 10px;
+  }
+}
