@@ -4,16 +4,16 @@ On this website, you can organize all of your digital presence in one place usin
 
 ## How to Add Data
 
-1. In the src folder, locate "MediaData.json" file
+1. In the src folder, locate the "MediaData.json" file
 2. In index 0, enter your name
-3. In index 1, enter as many links to external webpages you want to link
+3. In index 1, enter as much data to external webpages you want to link
 
 - "title" is the name of the webpage
 - "imgTitle" is the name of the png image
 - "link" is the webpage link
 - "shortcut" allows to show/hide shortcut icon
 
-4. Download images
+4. Download images to the src > assets > images > logo folder
 
 - use https://www.apple.com/app-store/ to find quality images
 - use https://onlineimagetools.com/pixelate-image to pixelate images
