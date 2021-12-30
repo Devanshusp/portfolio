@@ -6,7 +6,7 @@ On this website, you can organize your digital presence in one place using a ret
 
 1. In the src folder, locate the "MediaData.json" file
 2. In index 0, enter your name
-3. In index 1, enter as much data to external webpages you want to link
+3. In index 1, enter data to all external webpages you want to link
 
    - "title" is the name of the webpage
    - "imgTitle" is the name of the png image
