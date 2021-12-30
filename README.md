@@ -21,5 +21,5 @@ On this website, you can organize your digital presence in one place using a ret
 
 5. Update the public folder
 
-- update "index.html" and "manifest.json" data
-- add personal logo as "logo.png"
+   - update "index.html" and "manifest.json" data
+   - add personal logo as "logo.png"
