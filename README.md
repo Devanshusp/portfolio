@@ -13,7 +13,7 @@ On this website, you can organize your digital presence in one place using a ret
    - "link" is the webpage link
    - "shortcut" allows to show/hide shortcut icon
 
-4. Download images to the src > assets > images > logo folder
+4. Download images to the src > assets > images > icons folder
 
    - use https://www.apple.com/app-store/ to find quality images
    - use https://onlineimagetools.com/pixelate-image to pixelate images
