@@ -8,16 +8,16 @@ On this website, you can organize your digital presence in one place using a ret
 2. In index 0, enter your name
 3. In index 1, enter as much data to external webpages you want to link
 
-- "title" is the name of the webpage
-- "imgTitle" is the name of the png image
-- "link" is the webpage link
-- "shortcut" allows to show/hide shortcut icon
+   - "title" is the name of the webpage
+   - "imgTitle" is the name of the png image
+   - "link" is the webpage link
+   - "shortcut" allows to show/hide shortcut icon
 
 4. Download images to the src > assets > images > logo folder
 
-- use https://www.apple.com/app-store/ to find quality images
-- use https://onlineimagetools.com/pixelate-image to pixelate images
-- make sure to name these images corresponding to their "imgTitle" from the MediaData JSON file
+   - use https://www.apple.com/app-store/ to find quality images
+   - use https://onlineimagetools.com/pixelate-image to pixelate images
+   - make sure to name these images corresponding to their "imgTitle" from the MediaData JSON file
 
 5. Update the public folder
 
