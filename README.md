@@ -1,6 +1,8 @@
 # Portfolio
 
-On this website, you can organize your digital presence in one place using a retro, Windows 95 inspired design.
+![Screenshot](https://user-images.githubusercontent.com/66650721/147731222-578d57b7-7d67-4e92-b152-a5935a2ebd05.png)
+
+On this website, you can organize your digital presence in one place using a retro design.
 
 ## How to Add Data
 
