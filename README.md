@@ -25,3 +25,8 @@ On this website, you can organize your digital presence in one place using a ret
 
    - update "index.html" and "manifest.json" data
    - add personal logo as "logo.png"
+
+6. In the src folder, locate the "RedirectData.json" file
+
+   - "name" is the name of the route (i.e. [webpage][route])
+   - "link" is the webpage link
