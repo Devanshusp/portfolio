@@ -2,7 +2,7 @@ import React from "react";
 import "./App.scss";
 import Taskbar from "./components/Taskbar";
 import Content from "./pages/Content";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Redirect from "./components/Redirect";
 import RedirectData from "./RedirectData.json";
 
@@ -17,7 +17,7 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="*" element={<Content />} />
           <Route
@@ -34,7 +34,7 @@ function App() {
             );
           })}
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
       <Taskbar />
     </div>
   );
