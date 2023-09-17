@@ -1,0 +1,9 @@
+@import "../../src/assets/Styles.scss";
+
+.content {
+  height: calc((var(--vh, 1vh) * 99.9) - $taskbar-height);
+  display: flex;
+  flex-flow: column wrap;
+  align-content: flex-start;
+  overflow: auto;
+}
