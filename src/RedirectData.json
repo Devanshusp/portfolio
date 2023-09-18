@@ -10,5 +10,9 @@
   {
     "name": "sort",
     "link": "https://devanshusp.github.io/sorting-visualizer/"
+  },
+  {
+    "name": "ai",
+    "link": "https://pugpal.vercel.app/"
   }
 ]
