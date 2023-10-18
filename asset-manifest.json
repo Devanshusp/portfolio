@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.4d3fcb92.css",
-    "main.js": "/static/js/main.64603d05.js",
+    "main.js": "/static/js/main.9c202e85.js",
     "static/media/PixeloidSans.ttf": "/static/media/PixeloidSans.a5be60039e71d621d8eb.ttf",
     "static/media/PixeloidSansBold.ttf": "/static/media/PixeloidSansBold.a0a328f90d4b8993de64.ttf",
     "index.html": "/index.html",
     "main.4d3fcb92.css.map": "/static/css/main.4d3fcb92.css.map",
-    "main.64603d05.js.map": "/static/js/main.64603d05.js.map"
+    "main.9c202e85.js.map": "/static/js/main.9c202e85.js.map"
   },
   "entrypoints": [
     "static/css/main.4d3fcb92.css",
-    "static/js/main.64603d05.js"
+    "static/js/main.9c202e85.js"
   ]
 }
